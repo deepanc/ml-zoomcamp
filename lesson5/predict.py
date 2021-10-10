@@ -4,8 +4,8 @@ from flask import Flask
 from flask import request
 from flask import jsonify
 
-model_file = 'model1.bin.1'
-dv_file = 'dv.bin.1'
+model_file = 'model2.bin'
+dv_file = 'dv.bin'
 
 app = Flask('churn')
 
