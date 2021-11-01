@@ -1,6 +1,7 @@
 import requests
 
-url = 'http://localhost:9696/predict'
+url = 'http://0.0.0.0:9696/predict'
+# url = 'http://click-prediction-env.eba-esfi55cq.us-west-2.elasticbeanstalk.com/predict'
 
 user_id = '2478961'
 user = {
