@@ -54,4 +54,7 @@ python predict_test.py
 
 ### Cloud Deployment
 
-Application was deployed to AWS ElasticBeanStalk. Screenshot for the same has been attached.
+Application was deployed to AWS ElasticBeanStalk. Please refer to the below screenshots in the repo:
+
+* EBSDeployment_Aws_Screenshot.png
+* ElasticBeanStalkDeployment_Screenshot.png
